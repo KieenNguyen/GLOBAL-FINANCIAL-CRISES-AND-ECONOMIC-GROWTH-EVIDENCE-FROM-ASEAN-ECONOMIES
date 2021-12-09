@@ -1,4 +1,3 @@
-#Chapter 10, C4
 install.packages("MASS")
 install.packages('pacman')
 install.packages('lmtest')
