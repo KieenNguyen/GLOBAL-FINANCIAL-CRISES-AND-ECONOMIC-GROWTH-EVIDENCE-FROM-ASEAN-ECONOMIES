@@ -1,2 +1,3 @@
-Project Overview: 
+**Project Overview:**
+
 This report aims to find out the variables affecting economic development as well as the impact of the financial crisis on the economic growth of 10 ASEAN member countries for 12 years during and after the financial crisis. After running data analysis, we come to conclusions about the elements affecting the economy. The results found that only three variables including FDI, income, and crisis have influences on economic growth. In which, FDI has the most influence as well as the only positive element on economic development, even unaffected by the crisis factor. The other two variables bring negative impacts, especially income. Although based on historical reports showing positive effects on income, it brings great negative ones in the case of Southeast Asian countries. Furthermore, factors that are found to be influential, such as capital and trade, have no effect on the economy of ASEAN in this study.
